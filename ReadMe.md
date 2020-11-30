@@ -19,14 +19,14 @@ Criar arquivo `.env` e settar a propriedade `APP_PORT`
 ```
 cd server
 yarn
-yarn dev
+yarn start
 ```
 
 ou
 
 ```
 npm install
-npm dev
+npm start
 ```
 
 ## FrontEnd
